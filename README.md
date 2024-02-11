@@ -9,5 +9,5 @@
 
 ## How to Run ? :-
 > * Head to Google Colab or Kaggle
-> * Import .pynb file there
+> * Import .ipynb file there
 > * click Run ALL
